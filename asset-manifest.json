@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/star-wars-starship/static/css/main.dc3b0546.css",
+    "main.js": "/star-wars-starship/static/js/main.e3f23337.js",
+    "index.html": "/star-wars-starship/index.html",
+    "main.dc3b0546.css.map": "/star-wars-starship/static/css/main.dc3b0546.css.map",
+    "main.e3f23337.js.map": "/star-wars-starship/static/js/main.e3f23337.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc3b0546.css",
+    "static/js/main.e3f23337.js"
+  ]
+}
